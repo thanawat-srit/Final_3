@@ -1,0 +1,15 @@
+C:\Work_Kmutt\Y2_1\MDT211\Final\Final_3\obj\Debug\net6.0\Final_3.csproj.AssemblyReference.cache
+C:\Work_Kmutt\Y2_1\MDT211\Final\Final_3\obj\Debug\net6.0\Final_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work_Kmutt\Y2_1\MDT211\Final\Final_3\obj\Debug\net6.0\Final_3.AssemblyInfoInputs.cache
+C:\Work_Kmutt\Y2_1\MDT211\Final\Final_3\obj\Debug\net6.0\Final_3.AssemblyInfo.cs
+C:\Work_Kmutt\Y2_1\MDT211\Final\Final_3\obj\Debug\net6.0\Final_3.csproj.CoreCompileInputs.cache
+C:\Work_Kmutt\Y2_1\MDT211\Final\Final_3\bin\Debug\net6.0\Final_3.exe
+C:\Work_Kmutt\Y2_1\MDT211\Final\Final_3\bin\Debug\net6.0\Final_3.deps.json
+C:\Work_Kmutt\Y2_1\MDT211\Final\Final_3\bin\Debug\net6.0\Final_3.runtimeconfig.json
+C:\Work_Kmutt\Y2_1\MDT211\Final\Final_3\bin\Debug\net6.0\Final_3.dll
+C:\Work_Kmutt\Y2_1\MDT211\Final\Final_3\bin\Debug\net6.0\Final_3.pdb
+C:\Work_Kmutt\Y2_1\MDT211\Final\Final_3\obj\Debug\net6.0\Final_3.dll
+C:\Work_Kmutt\Y2_1\MDT211\Final\Final_3\obj\Debug\net6.0\refint\Final_3.dll
+C:\Work_Kmutt\Y2_1\MDT211\Final\Final_3\obj\Debug\net6.0\Final_3.pdb
+C:\Work_Kmutt\Y2_1\MDT211\Final\Final_3\obj\Debug\net6.0\Final_3.genruntimeconfig.cache
+C:\Work_Kmutt\Y2_1\MDT211\Final\Final_3\obj\Debug\net6.0\ref\Final_3.dll
